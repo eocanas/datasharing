@@ -1,7 +1,6 @@
 
 ---
-title: "CodeBook"
-date: "Friday, December 19, 2014"
+"CodeBook"
 ---
 
 
