@@ -1,19 +1,3 @@
-<style type="text/css">
-th {  background-color:#E0E0E0 ;
-      border-bottom:1px solid black;
-      padding:5px;}
-
-td{
-border-bottom:1px dotted black;
-padding:5px;}
-
-table{ 
-border-collapse:collapse;
-margin:auto;
- border: 2px solid purple;}
- 
-</style>
-
 
 ---
 title: "CodeBook"
